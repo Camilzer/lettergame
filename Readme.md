@@ -14,7 +14,7 @@ Règles du jeu:
 
 Architecture
  - Packages : 
- Le projet est découpé en 4 packages afin de répartir les différentes classes en fonction de leurs rôles.
+ Le projet est découpé en 3 packages afin de répartir les différentes classes en fonction de leurs rôles.
     - Package Game (Ce package est responsable du lancement du jeu.): 
       - Main.java lance le jeu
     - Package Components (Ce package est responsable des éléments nécéssaires au fonctionnement du jeu.) : 
